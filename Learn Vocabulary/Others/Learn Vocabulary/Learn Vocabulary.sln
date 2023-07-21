@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Learn Vocabulary", "Learn Vocabulary.vdproj", "{F68E221D-7440-470A-8451-7964BB0122A7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Learn Vocabulary V1.0", "..\Learn Vocabulary V1.0\Learn Vocabulary V1.0.vdproj", "{40794E20-16F4-44A3-B35D-A92DB36A339B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F68E221D-7440-470A-8451-7964BB0122A7}.Debug|Default.ActiveCfg = Debug
+		{F68E221D-7440-470A-8451-7964BB0122A7}.Debug|Default.Build.0 = Debug
+		{F68E221D-7440-470A-8451-7964BB0122A7}.Release|Default.ActiveCfg = Release
+		{F68E221D-7440-470A-8451-7964BB0122A7}.Release|Default.Build.0 = Release
+		{40794E20-16F4-44A3-B35D-A92DB36A339B}.Debug|Default.ActiveCfg = Debug
+		{40794E20-16F4-44A3-B35D-A92DB36A339B}.Release|Default.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C55C6DD-DD21-4D75-8418-BE6E88B776A8}
+	EndGlobalSection
+EndGlobal

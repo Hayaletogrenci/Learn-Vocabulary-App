@@ -1,0 +1,73 @@
+able - yetenekli
+above - üzerinde
+across - karşısında, karşıdan karşıya
+act - davranmak, hareket etmek
+along - boyunca, ile birlikte
+among - arasında, içinde
+appear - görünmek
+argue - tartışmak
+around - etrafında
+away - uzakta
+base - temel, dayanak
+begin - başlamak
+behind - arkasında
+below - altında
+beside - yanında
+bring - getirmek
+care - önem vermek, ilgilenmek
+carry - taşımak
+complain - şikayet etmek
+crash - çarpışmak
+discuss - tartışmak
+down - aşağı
+excuse - bahane, mazeret
+fact - gerçek, olgu
+field - alan, saha
+ground - zemin
+hall - salon, koridor
+hit - vurmak
+journey - yolculuk
+judge - yargılamak, hakim
+knee - diz
+let - izin vermek
+neck - boyun
+offer - teklif etmek
+often - sık sık
+pair - çift
+puppy - köpek yavrusu
+row - sıra, dizi
+seem - görünmek, gibi gelmek
+serve - hizmet etmek, servis yapmak
+spell - hecelemek
+such - böyle, bu tür
+sudden - aniden
+supper - akşam yemeği
+that - o, şu
+their - onların
+them - onları
+there - orada
+these - bunlar
+those - şunlar
+though - rağmen
+tie - bağlamak
+toe - ayak parmağı
+tooth - diş
+trouble - sorun, sıkıntı
+usual - alışılmış, sıradan
+wonder - merak etmek
+worry - endişelenmek
+yard - avlu, bahçe
+Despite - rağmen
+efficient - verimli
+handle - başa çıkmak
+datasets - veri kümeleri
+situation - durum
+composed - sakin, toplumlu
+throughout - boyunca
+provided - sağlanan
+allowing - izin vererek
+smooth - düz, pürüzsüz
+avoiding - kaçınarak
+brought - getirilen
+unrest - huzursuzluk
+instability - istikrarsızlık

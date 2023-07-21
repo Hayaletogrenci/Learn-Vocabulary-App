@@ -1,0 +1,18 @@
+C:\Users\Hayaletogenci\source\repos\Learn Vocabulary\Learn Vocabulary\bin\Debug\Learn Vocabulary.exe.config
+C:\Users\Hayaletogenci\source\repos\Learn Vocabulary\Learn Vocabulary\bin\Debug\Learn Vocabulary.exe
+C:\Users\Hayaletogenci\source\repos\Learn Vocabulary\Learn Vocabulary\bin\Debug\Learn Vocabulary.pdb
+C:\Users\Hayaletogenci\source\repos\Learn Vocabulary\Learn Vocabulary\obj\Debug\Learn Vocabulary.csproj.AssemblyReference.cache
+C:\Users\Hayaletogenci\source\repos\Learn Vocabulary\Learn Vocabulary\obj\Debug\Learn Vocabulary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hayaletogenci\source\repos\Learn Vocabulary\Learn Vocabulary\obj\Debug\Learn_Vocabulary.MainForm.resources
+C:\Users\Hayaletogenci\source\repos\Learn Vocabulary\Learn Vocabulary\obj\Debug\Learn_Vocabulary.Properties.Resources.resources
+C:\Users\Hayaletogenci\source\repos\Learn Vocabulary\Learn Vocabulary\obj\Debug\Learn Vocabulary.csproj.GenerateResource.cache
+C:\Users\Hayaletogenci\source\repos\Learn Vocabulary\Learn Vocabulary\obj\Debug\Learn Vocabulary.csproj.CoreCompileInputs.cache
+C:\Users\Hayaletogenci\source\repos\Learn Vocabulary\Learn Vocabulary\obj\Debug\Learn Vocabulary.exe
+C:\Users\Hayaletogenci\source\repos\Learn Vocabulary\Learn Vocabulary\obj\Debug\Learn Vocabulary.pdb
+C:\Users\Hayaletogenci\source\repos\Learn Vocabulary\Learn Vocabulary\obj\Debug\Learn_Vocabulary.Settings.resources
+C:\Users\Hayaletogenci\source\repos\Learn Vocabulary\Learn Vocabulary\obj\Debug\Learn_Vocabulary.AddWord.resources
+C:\Users\Hayaletogenci\source\repos\Learn Vocabulary\Learn Vocabulary\bin\Debug\Learn Vocabulary.exe.manifest
+C:\Users\Hayaletogenci\source\repos\Learn Vocabulary\Learn Vocabulary\bin\Debug\Learn Vocabulary.application
+C:\Users\Hayaletogenci\source\repos\Learn Vocabulary\Learn Vocabulary\obj\Debug\Learn Vocabulary.exe.manifest
+C:\Users\Hayaletogenci\source\repos\Learn Vocabulary\Learn Vocabulary\obj\Debug\Learn Vocabulary.application
+C:\Users\Hayaletogenci\source\repos\Learn Vocabulary\Learn Vocabulary\obj\Debug\Learn_Vocabulary.AllWords.resources
